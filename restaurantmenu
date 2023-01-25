@@ -1,0 +1,176 @@
+<!doctype html>  
+    <html>  
+        <head>  
+            <meta charset="UTF-8">  
+            <title>Restaurant Menu</title>  
+        </head>   
+        <body>  
+        <h1>Koberl at Blue</h1>
+        <h2>Main Menu</h2>
+        <h3>Appetizers</h3>
+        <ul>
+            <li>
+
+                <h4>Tempura Fried</h4>
+                <p>with lemon soy aioli and wasabi tobiko</p>
+                <p>$16.00</p>
+           </li>
+            
+           <li>
+                <h4>Seared sea scallops</h4>
+                <p>with artichoke duxelle, bacon brown butter and radish sprout or seasoned with hiwa kai sea salt on edamame pure with citrus vingaigrette </p>
+                <p>$15.00</p>
+                </li>
+
+            <li>
+
+                <h4>Crispy Snow crab chinois</h4>
+                <p>with ginger, garlic and cilantro</p>
+                <p>$14.00</p>
+
+            </li>
+
+            <li>
+
+                <h4>shrimp</h4>
+                <p>tempura with tomato, chipotle and avocado relish or sauteed, with artichokes, bacon brown butter and radish sprouts</p>
+                <p>$14.00</p>
+
+            </li>
+
+            <li>
+
+                <h4>Beef Filet carpaccio</h4>
+                <p>Horseradish aioli, shaved parmigiano, salad of celery root, parsley and sweet onion</p>
+                <p>$12.00</p>
+
+            </li>
+
+            <li>
+
+                <h4>Sauteed veel sweetbread and shrimp</h4>
+                <p>salad of shitake mushroom, orange and field green in sherry dressing</p>
+                <p>$14.00</p>
+
+            </li>
+            </ul>
+
+            
+<h3>Salads</h3>
+
+<ul>
+            
+            <li>
+
+                <h4>Butter leaf and Fuji Apple</h4>
+                <p>Maytag blue cheese, candied walnuts, champagne vinaigrette</p>
+                <p>$8.00</p>
+
+            </li>
+
+            <li>
+
+                <h4>Caesar</h4>
+                <p>Hearts of romaine, garlic croutons, spinach white anchovies, parmesano reggiano</p>
+                <p>$8.00</p>
+
+            </li>
+
+            <li>
+
+                <h4>Field Greens and Avocado BLT</h4>
+                <p>Caramelized onion and bacon brushetta, tomatoes and creamy red vine dressing </p>
+                <p>$9.00</p>
+
+            </li>
+
+        </ul>
+            
+        <h3>Entree</h3>
+        <ul> 
+
+        <li> 
+
+            <h4>Pan Roasted Chicken Breast</h4>
+            <p>Artichoke risotto cake, grilled asparagus, mushroom marsala cream sauce and almond gremolata</p>
+            <p>$22.00</p>            
+
+        </li>
+
+        <li>
+
+            <h4>Herb Roasted Halibut</h4>
+            <p>wild mushroom ravioli, sauteed spinach, basil vermouth sauce and melthed tomatoes</p>
+            <p>$30.00</p>
+
+        </li>
+
+        <li>
+
+            <h4>Crispy Filet of Salmon</h4>
+            <p>On saffrom pearl couscous with chorizo, menage au pois, lemon beurre blanc and roasted tomato, olive and caper relsih</p>
+              <p>$25.00</p>
+
+        </li>
+
+<li>
+    <h4>Coriander Seared Sea Scallops and Shrimps</h4>
+    <p>spiced chucka soba noodles, asparagus and mushrooms, lemon ginger butter sauce</p>
+    <p>$28.00</p>
+
+</li>
+
+<li>
+
+<h4>Sauteed Duck Breast and Confit of Duck</h4>
+<p>Spring Vegetable and yukon gold hash with apllewood smoked bacon and goat cheese, rainbow chard and port blackberry sauce</p>
+<p>$25.00</p>
+
+</li>
+
+<li>
+
+<h4>Grilled pork chop</h4>
+<p>roasted fingerling potatoes, corn, fava beans, cipollini, pancetta and watercress tarragon mustard sauce</p>
+<p>$25.00</p>
+
+</li>
+
+</ul>
+            
+<h3>Dessert</h3>
+
+<ul>
+
+
+
+<li>
+
+<h4>Dark Chocolate Mousse</h4>
+<p>with whipped cream and almond water</p>
+<p>$10.00</p>
+
+</li>
+
+<li>
+
+<h4>Creme Brulee</h4>
+<p>French Vanilla custard, fresh berries</p>
+<p>$8.00</p>
+
+</li>
+
+<li>
+
+<h4>Chocolate Lava Cake</h4>
+<p>Raspenberry coulis, cream angllaise</p>
+<p>$12.00</p>
+
+</li>
+
+</ul>
+        </p>
+
+        </body>
+
+    </html>
